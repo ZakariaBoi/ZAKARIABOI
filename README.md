@@ -15,7 +15,7 @@ This space may be empty now, but it won’t stay that way for long—stay tuned,
 
 💬 Ask me about web development, coding best practices, or my journey in tech!
 
-📫 How to reach me: 1boikouta@gmail.com
+📫 How to reach me: Mr.Zak.Boi@gmail.com
 
 😄 Pronouns: He/Him
 
