@@ -1,16 +1,24 @@
-## Hi there 👋
+Hey There 👋, Welcome To My GitHub 
 
-<!--
-**ZakariaBoi/ZakariaBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently in the process of building my skills in coding and cybersecurity and everything in between.
 
-Here are some ideas to get you started:
+I’ve spent a lot of time diving deep,
+This space may be empty now, but it won’t stay that way for long—stay tuned, I’m coming for my bio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on building web applications using Node.js and Express.
+
+🌱 I’m currently learning React and improving my understanding of cybersecurity.
+
+👯 I’m looking to collaborate on projects that involve web development or cybersecurity.
+
+🤔 I’m looking for help with mastering callback functions in Node.js.
+
+💬 Ask me about web development, coding best practices, or my journey in tech!
+
+📫 How to reach me: 1boikouta@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’m passionate about learning and always seeking new challenges to improve my skills!
+
+
