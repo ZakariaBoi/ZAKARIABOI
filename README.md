@@ -11,7 +11,7 @@ This space may be empty now, but it won’t stay that way for long—stay tuned,
 
 👯 I’m looking to collaborate on projects that involve web development or cybersecurity.
 
-🤔 I’m looking for help with mastering callback functions in Node.js.
+🤔 I’m looking for advice with mastering web development.
 
 💬 Ask me about web development, coding best practices, or my journey in tech!
 
